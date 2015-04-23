@@ -7,6 +7,7 @@ Each branch contains the patch for the specific bug.
 # Branch
 
 - supee-5344
+- supee-1533
 - appsec-212
 
 # How to Apply
