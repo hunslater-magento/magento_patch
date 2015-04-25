@@ -7,7 +7,10 @@ Each branch contains the patch for the specific bug.
 # Branch
 
 - supee-5344
+- supee-4829
 - supee-1533
+- supee-3762
+- php-54
 - appsec-212
 
 # How to Apply
