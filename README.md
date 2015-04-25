@@ -4,11 +4,15 @@ MMind_Magento_Patch
 Magento CE 1.x Patch Collection.
 Each branch contains the patch for the specific bug.
 
+# Patch
+
+This patch fixes an issue in which product images become larger when a shopper selects a swatch on a search result page.<br />
+Added Nov 26, 2014<br />
+Note: This patch is applicable only to Magento Community Edition 1.9.1
+
 # Branch
 
-- supee-5344
-- supee-1533
-- appsec-212
+- supee-4829
 
 # How to Apply
 
