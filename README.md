@@ -9,7 +9,11 @@ Each branch contains the patch for the specific bug.
 - supee-5344
 - supee-4829
 - supee-1533
+- supee-4291-4334
+- supee-1868
+- supee-3941
 - supee-3762
+- supee-2725
 - php-54
 - appsec-212
 
