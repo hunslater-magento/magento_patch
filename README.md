@@ -4,11 +4,14 @@ MMind_Magento_Patch
 Magento CE 1.x Patch Collection.
 Each branch contains the patch for the specific bug.
 
+# Patch for PHP 5.4 support
+
+Support for PHP 5.4<br />
+Added Jan 17, 2014 
+
 # Branch
 
-- supee-5344
-- supee-1533
-- appsec-212
+- php-54
 
 # How to Apply
 

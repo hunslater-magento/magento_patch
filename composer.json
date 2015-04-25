@@ -2,7 +2,7 @@
   "name": "mmind/magento_patch",
   "license": "OSL-3.0",
   "homepage": "https://github.com/magemindcom/magento_patch",
-  "description": "Magento Patch Collection",
+  "description": "Magento CE 1.x Patch Collection",
   "authors": [
     {
       "name": "Mage Mind",
