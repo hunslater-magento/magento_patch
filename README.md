@@ -4,14 +4,16 @@ MMind_Magento_Patch
 Magento CE 1.x Patch Collection.
 Each branch contains the patch for the specific bug.
 
+# Patch
+
+This patch addresses the USPS API changes that went effective on Sep. 7th.<br />
+Added Sep 23, 2014
+Note: For versions earlier than Magento Community Edition 1.9.x, the new patches need to be installed on previous USPS patch (SUPEE-1868) issued in 2013.<br /> 
+Please make sure the patch SUPEE-1868 is installed first. 
+
 # Branch
 
-- supee-5344
-- supee-4829
-- supee-1533
-- supee-3762
-- php-54
-- appsec-212
+- supee 4921-4334
 
 # How to Apply
 
