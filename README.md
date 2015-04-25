@@ -4,14 +4,14 @@ MMind_Magento_Patch
 Magento CE 1.x Patch Collection.
 Each branch contains the patch for the specific bug.
 
+# Patch
+
+Improves validation of Discover credit cards<br />
+Added Feb 12, 2014.
+
 # Branch
 
-- supee-5344
-- supee-4829
-- supee-1533
-- supee-3762
-- php-54
-- appsec-212
+- supee-2725
 
 # How to Apply
 
