@@ -4,14 +4,16 @@ MMind_Magento_Patch
 Magento CE 1.x Patch Collection.
 Each branch contains the patch for the specific bug.
 
+# Patch
+
+Update of USPS method names and integration from July 2013 to support USPS changes to their Priority and Express shipping options<br />
+Added Sep 23, 2014
+Note: This patch is applicable only to Magento Community Edition 1.7 and 1.8.<br />
+The patch was released previously - double check if it is not already installed before applying
+
 # Branch
 
-- supee-5344
-- supee-4829
-- supee-1533
-- supee-3762
-- php-54
-- appsec-212
+- supee-1868
 
 # How to Apply
 
