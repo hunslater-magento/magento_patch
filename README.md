@@ -1,7 +1,7 @@
 MMind_Magento_Patch
 ==================
 
-Magento CE 1.x Patch Collection.
+Magento CE 1.x Patch Collection.<br />
 Each branch contains the patch for the specific bug.
 
 # Branch
