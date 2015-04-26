@@ -1,12 +1,13 @@
 MMind_Magento_Patch
 ==================
 
-Magento Patch Collection.
+Magento Patch Collection.<br />
 Each branch contains the patch for the specific bug.
 
 # Patch
 
-Addresses two potential remote code execution exploits. - Added Oct 3, 2014<br />
+Addresses two potential remote code execution exploits.<br />
+Added Oct 3, 2014<br />
 More details here: [http://devdocs.magento.com/guides/m1x/other/appsec-900_addhandler.html](http://devdocs.magento.com/guides/m1x/other/appsec-900_addhandler.html)
 
 # Branch
