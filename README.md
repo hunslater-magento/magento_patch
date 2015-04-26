@@ -1,12 +1,13 @@
 MMind_Magento_Patch
 ==================
 
-Magento Patch Collection.
+Magento Patch Collection.<br />
 Each branch contains the patch for the specific bug.
 
 # Patch APPSEC-212
 
-Addresses a security issue and CMS problems when using symlinks - Added Jan 17, 2014.
+Addresses a security issue and CMS problems when using symlinks.<br />
+Added Jan 17, 2014.<br />
 Note: if you applied the previous version of this patch, make sure to revert it before applying this one. The previous patch is also provided for reference below. 
 
 # Branch
