@@ -6,6 +6,8 @@ Each branch contains the patch for the specific bug.
 
 # Branch
 
+- supee-6285
+- supee-6237
 - supee-5994
 - supee-5344
 - supee-4829
