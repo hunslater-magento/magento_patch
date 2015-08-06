@@ -12,19 +12,16 @@ Note: if you applied the previous version of this patch, make sure to revert it 
 
 # Patch Branch
 
-- supee-6482 (04 August 2015)
-- supee-6285 
-- supee-6237 (18 June 2015)
-- supee-5994
-- supee-5344
-- supee-4829
-- supee-1533
-- supee-4291-4334
-- supee-1868
-- supee-3941
-- supee-3762
-- supee-2725
-- php-54
+- supee-5994 (14 May 2015)
+- supee-5344 (09 February 2015)
+- supee-4829 (26 November 2014)
+- supee-1533 (03 October 2014)
+- supee-4291-4334 (23 September 2014)
+- supee-1868 (23 September 2014)
+- supee-3941 (12 August 2014)
+- supee-3762 (12 August 2014)
+- supee-2725 (12 February 2014)
+- php-54 (17 January 2014)
 - **appsec-212 (17 January 2014)**
 
 # Magento Version Branch
