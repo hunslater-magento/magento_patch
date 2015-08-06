@@ -2,9 +2,10 @@ MMind_Magento_Patch
 ==================
 
 Magento CE 1.x Patch Collection.<br />
-Each branch contains the patch for the specific bug.
+Each branch contains the patch for the specific bug.<br />
+There are also a branch for a single version of Magento with all patches you need.
 
-# Branch
+# Patch Branch
 
 - supee-6482 (04 August 2015)
 - supee-6285
@@ -20,6 +21,10 @@ Each branch contains the patch for the specific bug.
 - supee-2725
 - php-54
 - appsec-212
+
+# Magento Version Branch
+
+- 1.9.2.0
 
 # How to Apply
 
