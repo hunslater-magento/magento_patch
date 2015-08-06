@@ -1,25 +1,11 @@
 MMind_Magento_Patch
 ==================
 
-Magento CE 1.x Patch Collection.<br />
-Each branch contains the patch for the specific bug.
+Magento CE 1.9.2.0 required patches.
 
-# Branch
+# Patch for Magento 1.9.2.0
 
 - supee-6482 (04 August 2015)
-- supee-6285
-- supee-6237
-- supee-5994
-- supee-5344
-- supee-4829
-- supee-1533
-- supee-4291-4334
-- supee-1868
-- supee-3941
-- supee-3762
-- supee-2725
-- php-54
-- appsec-212
 
 # How to Apply
 
