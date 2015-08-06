@@ -17,7 +17,6 @@ There are also a branch for a single version of Magento with all patches you nee
 - supee-4291-4334 (23 September 2014)
 - supee-1868 (23 September 2014)
 - supee-3941 (12 August 2014)
-- supee-3762 (12 August 2014)
 - supee-2725 (12 February 2014)
 - php-54 (17 January 2014)
 - appsec-212 (17 January 2014)
