@@ -8,8 +8,8 @@ There are also a branch for a single version of Magento with all patches you nee
 # Patch Branch
 
 - supee-6482 (04 August 2015)
-- supee-6285
-- supee-6237
+- supee-6285 
+- supee-6237 (18 June 2015)
 - supee-5994
 - supee-5344
 - supee-4829
