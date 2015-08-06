@@ -4,10 +4,15 @@ MMind_Magento_Patch
 Magento CE 1.x Patch Collection.<br />
 Each branch contains the patch for the specific bug.
 
+# Patch SUPEE-6285
+
+This patch provides protection against several types of security-related issues, including information leaks, request forgeries, and cross-site scripting.<br />
+Make sure to install SUPEE-5994 patch first. Magento Community Edition version 1.9.2 already includes the latest version of the patch. More information about the individual issues addressed by this patch is available in the patch [release notes](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html#magento/patch-releases-2015.html).
+
 # Branch
 
 - supee-6482 (04 August 2015)
-- supee-6285
+- **supee-6285**
 - supee-6237
 - supee-5994
 - supee-5344
