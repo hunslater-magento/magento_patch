@@ -9,7 +9,7 @@ There are also a branch for a single version of Magento with all patches you nee
 
 - supee-6482 (04 August 2015)
 - supee-6285 
-- supee-6237 (18 June 2015)
+- **supee-6237 (18 June 2015)**
 - supee-5994
 - supee-5344
 - supee-4829
@@ -24,7 +24,10 @@ There are also a branch for a single version of Magento with all patches you nee
 
 # Magento Version Branch
 
-- 1.9.2.0
+- 1.9.x
+- 1.8.x
+- 1.7.x
+- 1.6.x
 
 # How to Apply
 
