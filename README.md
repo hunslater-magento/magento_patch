@@ -4,9 +4,14 @@ MMind_Magento_Patch
 Magento CE 1.x Patch Collection.<br />
 Each branch contains the patch for the specific bug.
 
+# Patch SUPEE-6482
+
+This patch addresses two issues related to APIs and two cross-site scripting risks.<br />
+More information about the individual issues addressed by this patch is available in the patch release notes.
+
 # Branch
 
-- supee-6482 (04 August 2015)
+- **supee-6482 (04 August 2015)**
 - supee-6285
 - supee-6237
 - supee-5994
