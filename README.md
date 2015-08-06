@@ -6,14 +6,25 @@ Each branch contains the patch for the specific bug.
 
 # Patch SUPEE-5994
 
-This patch addresses multiple security vulnerabilities in Magento Community Edition software, including issues that can put customer information at risk. - Added May 14, 2015 
+This patch addresses multiple security vulnerabilities in Magento Community Edition software, including issues that can put customer information at risk.<br /> 
+More information about the individual issues addressed by this patch is available in the patch [release notes](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html#magento/patch-releases-2015.html).
 
 # Branch
 
 - supee-6482 (04 August 2015)
 - supee-6285
 - supee-6237
-- supee-5994
+- **supee-5994**
+- supee-5344
+- supee-4829
+- supee-1533
+- supee-4291-4334
+- supee-1868
+- supee-3941
+- supee-3762
+- supee-2725
+- php-54
+- appsec-212
 
 # How to Apply
 
