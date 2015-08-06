@@ -10,6 +10,9 @@ This patch addresses multiple security vulnerabilities in Magento Community Edit
 
 # Branch
 
+- supee-6482 (04 August 2015)
+- supee-6285
+- supee-6237
 - supee-5994
 
 # How to Apply
