@@ -1,8 +1,9 @@
 MMind_Magento_Patch
 ==================
 
-Magento Patch Collection.<br />
-Each branch contains the patch for the specific bug.
+Magento CE 1.x Patch Collection.<br />
+Each branch contains the patch for the specific bug.<br />
+There are also a branch for a single version of Magento with all patches you need.
 
 # Patch APPSEC-212
 
@@ -10,9 +11,46 @@ Addresses a security issue and CMS problems when using symlinks.<br />
 Added Jan 17, 2014.<br />
 Note: if you applied the previous version of this patch, make sure to revert it before applying this one. The previous patch is also provided for reference below. 
 
-# Branch
+# Patch Branch
 
-- appsec-212
+- supee-6482 (04 August 2015)
+- supee-6285 
+- supee-6237 (18 June 2015)
+- supee-5994
+- supee-5344
+- supee-4829
+- supee-1533
+- supee-4291-4334
+- supee-1868
+- supee-3941
+- supee-3762
+- supee-2725
+- php-54
+- **appsec-212**
+
+# Magento Version Branch
+
+- 1.9.2.1
+- 1.9.2.0
+- 1.9.1.1
+- 1.9.1.0
+- 1.9.0.1
+- 1.9.0.0
+- **1.8.1.0**
+- **1.8.0.0**
+- **1.7.0.2**
+- **1.7.0.1**
+- **1.7.0.0**
+- **1.6.2.0**
+- **1.6.1.0**
+- **1.6.0.0**
+- 1.5.1.0
+- 1.5.0.1
+- 1.4.2.0
+- 1.4.1.1
+- 1.4.1.0
+- 1.4.0.1
+- 1.4.0.0
 
 # How to Apply
 
