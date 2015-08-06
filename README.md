@@ -8,8 +8,7 @@ There are also a branch for a single version of Magento with all patches you nee
 # Patch APPSEC-212
 
 Addresses a security issue and CMS problems when using symlinks.<br />
-Added Jan 17, 2014.<br />
-Note: if you applied the previous version of this patch, make sure to revert it before applying this one. The previous patch is also provided for reference below. 
+Note: if you applied the previous version of this patch, make sure to revert it before applying this one. 
 
 # Patch Branch
 
@@ -26,7 +25,7 @@ Note: if you applied the previous version of this patch, make sure to revert it 
 - supee-3762
 - supee-2725
 - php-54
-- **appsec-212**
+- **appsec-212 (17 January 2014)**
 
 # Magento Version Branch
 
