@@ -2,14 +2,15 @@ MMind_Magento_Patch
 ==================
 
 Magento CE 1.x Patch Collection.<br />
-Each branch contains the patch for the specific bug.
+Each branch contains the patch for the specific bug.<br />
+There are also a branch for a single version of Magento with all patches you need.
 
 # Patch SUPEE-6482
 
 This patch addresses two issues related to APIs and two cross-site scripting risks.<br />
 More information about the individual issues addressed by this patch is available in the patch [release notes](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html#magento/patch-releases-2015.html).
 
-# Branch
+# Patch Branch
 
 - **supee-6482 (04 August 2015)**
 - supee-6285
@@ -25,6 +26,10 @@ More information about the individual issues addressed by this patch is availabl
 - supee-2725
 - php-54
 - appsec-212
+
+# Magento Version Branch
+
+- 1.9.2.0
 
 # How to Apply
 
