@@ -5,6 +5,12 @@ Magento CE 1.x Patch Collection.<br />
 Each branch contains the patch for the specific bug.<br />
 There are also a branch for a single version of Magento with all patches you need.
 
+# Patch SUPEE-6237
+
+The USPS changed their APIs on May 31, 2015, impacting shipping rate requests for international shipments to and from Canada.<br />
+Some shipping rates will not be properly returned, and customers will not see all shipping options available to them.<br />
+You can read more about the API change in a [blog post](http://www.webshopapps.com/blog/2015/06/usps-api-update-may-31st-2015-what-you-need-to-know/) written by WebShopApps, a Magento Partner.
+
 # Patch Branch
 
 - supee-6285 (07 July 2015)
