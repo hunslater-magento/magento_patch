@@ -23,6 +23,7 @@ Note: This patch is applicable only to Magento Community Edition 1.9.1
 - supee-4291-4334 (23 September 2014)
 - supee-1868 (23 September 2014)
 - supee-3941 (12 August 2014)
+- supee-3762 (12 August 2014)
 - supee-2725 (12 February 2014)
 - php-54 (17 January 2014)
 - appsec-212 (17 January 2014)
