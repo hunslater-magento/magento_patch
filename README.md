@@ -49,7 +49,6 @@ Prevents repeated SOAP index page call issue from causing customers to only see 
 - 1.4.1.0
 - 1.4.0.1
 - 1.4.0.0
->>>>>>> master
 
 # How to Apply
 
