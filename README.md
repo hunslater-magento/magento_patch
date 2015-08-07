@@ -5,19 +5,19 @@ Magento CE 1.x Patch Collection.<br />
 Each branch contains the patch for the specific bug.<br />
 There are also a branch for a single version of Magento with all patches you need.
 
-# Patch Branch
+# Patch Magento 1.9.0.1 needs
 
-- supee-6482 (04 August 2015)
-- supee-6285 (07 July 2015)
-- supee-6237 (18 June 2015)
-- supee-5994 (14 May 2015)
-- supee-5344 (09 February 2015)
+- **supee-6482 (04 August 2015)**
+- **supee-6285 (07 July 2015)**
+- **supee-6237 (18 June 2015)**
+- **supee-5994 (14 May 2015)**
+- **supee-5344 (09 February 2015)**
 - supee-4829 (26 November 2014)
-- supee-1533 (03 October 2014)
-- supee-4291-4334 (23 September 2014)
+- **supee-1533 (03 October 2014)**
+- **supee-4291-4334 (23 September 2014)**
 - supee-1868 (23 September 2014)
-- supee-3941 (12 August 2014)
-- supee-3762 (12 August 2014)
+- **supee-3941 (12 August 2014)**
+- **supee-3762 (12 August 2014)**
 - supee-2725 (12 February 2014)
 - php-54 (17 January 2014)
 - appsec-212 (17 January 2014)
@@ -28,7 +28,7 @@ There are also a branch for a single version of Magento with all patches you nee
 - 1.9.2.0
 - 1.9.1.1
 - 1.9.1.0
-- 1.9.0.1
+- **1.9.0.1**
 - 1.9.0.0
 - 1.8.1.0
 - 1.8.0.0
