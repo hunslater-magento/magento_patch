@@ -8,7 +8,7 @@ There are also a branch for a single version of Magento with all patches you nee
 # Patch Branch
 
 - supee-6285 (07 July 2015)
-- supee-6237 (18 June 2015)
+- **supee-6237 (18 June 2015)**
 - supee-5994 (14 May 2015)
 - supee-5344 (09 February 2015)
 - supee-4829 (26 November 2014)
@@ -24,19 +24,19 @@ There are also a branch for a single version of Magento with all patches you nee
 # Magento Version Branch
 
 - 1.9.2.1
-- 1.9.2.0
-- 1.9.1.1
-- 1.9.1.0
-- 1.9.0.1
-- 1.9.0.0
-- 1.8.1.0
-- 1.8.0.0
-- 1.7.0.2
-- 1.7.0.1
-- 1.7.0.0
-- 1.6.2.0
-- 1.6.1.0
-- 1.6.0.0
+- **1.9.2.0**
+- **1.9.1.1**
+- **1.9.1.0**
+- **1.9.0.1**
+- **1.9.0.0**
+- **1.8.1.0**
+- **1.8.0.0**
+- **1.7.0.2**
+- **1.7.0.1**
+- **1.7.0.0**
+- **1.6.2.0**
+- **1.6.1.0**
+- **1.6.0.0**
 - 1.5.1.0
 - 1.5.0.1
 - 1.4.2.0
@@ -44,7 +44,6 @@ There are also a branch for a single version of Magento with all patches you nee
 - 1.4.1.0
 - 1.4.0.1
 - 1.4.0.0
->>>>>>> master
 
 # How to Apply
 
