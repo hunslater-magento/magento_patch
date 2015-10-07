@@ -11,8 +11,8 @@ Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
          $attr = $this->getAttribute();
          $total = 0;
          foreach ($object->getQuote()->getAllVisibleItems() as $item) {
--            if (Mage_Rule_Model_Condition_Combine::validate($item)) {
 +            if (parent::validate($item)) {
+-            if (Mage_Rule_Model_Condition_Combine::validate($item)) {
                  $total += $item->getData($attr);
              }
          }
