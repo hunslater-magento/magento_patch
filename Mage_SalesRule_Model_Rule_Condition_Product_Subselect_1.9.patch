@@ -1,10 +1,10 @@
-Index: htdocs/app/code/core/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php
+Index: htdocs/app/code/local/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php
 IDEA additional info:
 Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
---- htdocs/app/code/core/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php	(date 1444233450000)
-+++ htdocs/app/code/core/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php	(revision )
+--- htdocs/app/code/local/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php	(date 1444315919000)
++++ htdocs/app/code/local/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php	(revision )
 @@ -114,7 +114,7 @@
          $attr = $this->getAttribute();
          $total = 0;
